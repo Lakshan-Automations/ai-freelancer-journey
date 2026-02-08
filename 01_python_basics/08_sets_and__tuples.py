@@ -19,5 +19,6 @@ unique_set = set(nums)
 # 3. Convert set back to a list
 cleaned_list = list(unique_set)
 
+
 # 4. Print the result
 print(cleaned_list)
